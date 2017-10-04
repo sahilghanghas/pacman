@@ -1,0 +1,64 @@
+module load caffe
+
+module load protobuf-2.6.1
+
+module load opencv
+
+module load matlab_dce_2013b
+
+
+
+module load caffe_cuda7.0
+
+module load opencv_cuda7.0
+
+module load cuda-7.0
+
+module load cuda-6.5
+
+
+
+module load python-2.7.5
+
+module load R-3.0.1_Intel
+
+module load oracle_java_1.7u40
+
+module load perl-5.20.0
+
+
+
+module load gnu-4.4-compilers
+
+module load gnu-4.8.1-compilers
+
+module load gnu-4.9.3-compilers
+
+module load gnu-5.2.1-OpenACC_2.0-Cuda7.0
+
+
+
+module load atlas-sse3-3.8.4-2
+
+module load boost-1.55.0
+
+module load ImageMagick-6.9.0
+
+module load fftw-3.3.3
+
+module load platform-mpi
+
+module load ant-1.9.3
+
+module load apache-maven-3.2.3
+
+module load vtk-5.10.1
+
+module load eigen-3.2.4
+
+module load gnu-4.4-compilers 
+module load fftw-3.3.3
+module load platform-mpi
+module load gnu-4.8.1-compilers
+module load matlab_dce_2013b
+module load python-2.7.5

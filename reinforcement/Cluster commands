@@ -1,0 +1,6 @@
+Cluster commands
+
+sinfo
+salloc -p ht-10g (name of the system you want to use)
+squeue -u ghanghas.s
+ssh (nodelist)
